@@ -1,0 +1,23 @@
+PL12: CODE, 543 0 5
+PL8: CODE, 533 0 5
+_PWM1_Start: CODE, 1310 0 4
+___aldiv: CODE, 665 0 117
+___ftpack: CODE, 1071 0 62
+_main: CODE, 20 0 508
+___lwtoft: CODE, 1274 0 16
+_TMR0_int: CODE, 1254 0 20
+_TMR0_init: CODE, 1290 0 15
+_PWM1_Init: CODE, 1133 0 39
+__initialization: CODE, 11 0 7
+_PWM_Max_Duty: CODE, 1172 0 30
+_PWM1_Duty: CODE, 980 0 91
+___ftmul: CODE, 548 0 107
+___awtoft: CODE, 1202 0 27
+PL2: CODE, 655 0 10
+___wmul: CODE, 1229 0 25
+PL10: CODE, 538 0 5
+PL4: CODE, 973 0 7
+___fttol: CODE, 886 0 87
+PL6: CODE, 528 0 5
+___ftdiv: CODE, 782 0 104
+Total: 1296

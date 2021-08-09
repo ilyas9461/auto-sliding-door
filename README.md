@@ -21,9 +21,9 @@ Kapının duracağı yerler iki adet sensör tarafından belirlenmektedir.
 
 <br>
 <p  align="center">
-    <img src="./img/kapi_SA_Sensor__baglanti.jpg" width="75%" height="75%" border: 5px solid #555 >
+    <img src="./img/kapi_SA_Sensor__baglanti.jpg" width="70%" height="70%" border: 5px solid #555 >
 </p>
-<div align="center"> Resim: Sensörlerin yerleşimi ev çalışma şekli. </div>
+<div align="center"> Resim: Sensörlerin yerleşimi ve çalışma şekli. </div>
 <br>
 
 
@@ -38,10 +38,9 @@ Bu kapı sistemi sayesinde oyun alanından içeri girecek veya çıkacak misafir
 <div align="center"> Resim: PCB. </div>
 <br>
 
-```bash
-
 ## Kullanılan Teknolojiler
 
+```bash
 - PIC16F628A mikrodenetleyici.
 - Microchip XC8 derleyici.
 - Sensörler.
@@ -57,7 +56,7 @@ Bu kapı sistemi sayesinde oyun alanından içeri girecek veya çıkacak misafir
 ## İletişim
 
 - GitHub [@your-ilyas9461](https://github.com/ilyas9461)
-- Linkedin [@your-linkedin](linkedin.com/in/ilyas-yağcioğlu-6a6b17217)
+- Linkedin [@your-linkedin](www.linkedin.com/in/ilyas-yağcioğlu-6a6b17217)
 
 ### *** Not : 
 Devre endüstriyel olarak üretimde olduğu için PCB devre şemaları paylaşılmamıştır.

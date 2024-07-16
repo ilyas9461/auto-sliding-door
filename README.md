@@ -49,7 +49,7 @@ Thanks to this door system, guests entering or exiting the playground can be eas
 
 ## Sample working video :
 
-<a href="https://www.youtube.com/shorts/9W3VMVikV3s" target="_blank">
+<a href="https://www.youtube.com/watch?v=kIe9F6NFxtg" target="_blank">
      <img src="./img/youtube.png" alt="youtube" width="55">
 </a>
 
